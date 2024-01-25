@@ -1,7 +1,7 @@
 ﻿vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL D:/Projects/vcpkg-playground/example-remote/moza-module-b/.git
-    REF b855966e41276a63fdb3e62d03de3245ac0251a2
+    REF 59affb821c040f2161bc131d613595b2dfa4399b
 )
 
 vcpkg_cmake_configure(
@@ -9,7 +9,7 @@ vcpkg_cmake_configure(
         OPTIONS
         ${FEATURE_OPTIONS}
         -DCMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH} # 来自 custom-overlay-triplets 中 triple 定义的变量
-        -DENABLE_DOCS=ON
+        -DENABLE_DOCS=OFF
         -DENABLE_TESTS=OFF
 )
 

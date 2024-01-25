@@ -1,7 +1,7 @@
 {
   "name": "moza-module-c",
   "version": "0.1.0",
-  "port-version": 0,
+  "port-version": 1,
   "description": "MOZA module-c模块",
   "homepage": "http://git.gudsen-rd.com/chenjingkui/moza-module-c",
   "maintainers": ["Jingkui Chen <jkchen@gudsen.cn>"],
