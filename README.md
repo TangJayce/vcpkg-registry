@@ -1,0 +1,2 @@
+# MOZA vcpkg registry
+

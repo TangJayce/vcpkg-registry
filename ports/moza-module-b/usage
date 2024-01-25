@@ -1,0 +1,4 @@
+moza-module-c 提供 CMake 目标:
+
+find_package(moza-module-b CONFIG REQUIRED)
+target_link_libraries(main PRIVATE moza-module-b::module-b1)
