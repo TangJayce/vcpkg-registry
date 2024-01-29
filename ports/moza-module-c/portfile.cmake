@@ -1,7 +1,7 @@
 ﻿vcpkg_from_git(
     OUT_SOURCE_PATH SOURCE_PATH
     URL http://git.gudsen-rd.com/rs21/rs21-pc/moza/module-c.git
-    REF 72db30a06cd1a3e418e46bbe65d2d5457f37dd39
+    REF d4844aa94b8740b992d8c8786d93a5bfbf2895dd
 )
 
 # 需要在 triple 中定义 ${CMAKE_PREFIX_PATH} 变量
