@@ -1,9 +1,9 @@
 {
   "name": "moza-module-b",
   "version": "0.1.0",
-  "port-version": 2,
+  "port-version": 0,
   "description": "MOZA module-b模块",
-  "homepage": "http://git.gudsen-rd.com/chenjingkui/moza-module-b",
+  "homepage": "http://git.gudsen-rd.com/rs21/rs21-pc/moza/module-b",
   "maintainers": ["Jingkui Chen <jkchen@gudsen.cn>"],
   "dependencies": [
     { "name": "vcpkg-cmake", "host": true },

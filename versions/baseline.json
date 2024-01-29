@@ -2,11 +2,11 @@
     "default": {
         "moza-module-b": {
             "baseline": "0.1.0",
-            "port-version": 2
+            "port-version": 0
         },
         "moza-module-c": {
             "baseline": "0.1.0",
-            "port-version": 2
+            "port-version": 0
         }
     }
 }
